@@ -4,6 +4,14 @@ builds:
   - id: api
     main: ./cmd/api
     binary: api
+    env:
+      - CGO_ENABLED=1
+    goos:
+      - darwin
+      - linux
+    goarch:
+      - amd64
+      - arm64
     ldflags:
       - -s -w -X github.com/patrickjm/api-cli/internal/app.version={{.Version}}
 
