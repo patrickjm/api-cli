@@ -9,8 +9,8 @@ import (
 	"time"
 
 	quickjs "github.com/buke/quickjs-go"
-	"github.com/patrickmoriarty/api-cli/internal/request"
-	"github.com/patrickmoriarty/api-cli/internal/secret"
+	"github.com/patrickjm/api-cli/internal/request"
+	"github.com/patrickjm/api-cli/internal/secret"
 )
 
 type ExecOptions struct {

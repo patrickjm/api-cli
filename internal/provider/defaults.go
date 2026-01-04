@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/patrickmoriarty/api-cli/internal/config"
+	"github.com/patrickjm/api-cli/internal/config"
 )
 
 //go:embed defaults/*.js

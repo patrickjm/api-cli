@@ -9,10 +9,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/patrickmoriarty/api-cli/internal/config"
-	"github.com/patrickmoriarty/api-cli/internal/provider"
-	"github.com/patrickmoriarty/api-cli/internal/runtime"
-	"github.com/patrickmoriarty/api-cli/internal/secret"
+	"github.com/patrickjm/api-cli/internal/config"
+	"github.com/patrickjm/api-cli/internal/provider"
+	"github.com/patrickjm/api-cli/internal/runtime"
+	"github.com/patrickjm/api-cli/internal/secret"
 	"github.com/spf13/cobra"
 )
 

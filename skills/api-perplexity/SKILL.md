@@ -8,7 +8,7 @@ description: Use when querying Perplexity via the `api` CLI in this repo (search
 ## Quick start (Homebrew install)
 
 ```bash
-brew install patrickmoriarty/tap/api
+brew install patrickjm/tap/api
 ```
 
 ## Provider setup

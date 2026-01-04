@@ -5,7 +5,7 @@ builds:
     main: ./cmd/api
     binary: api
     ldflags:
-      - -s -w -X github.com/patrickmoriarty/api-cli/internal/app.version={{.Version}}
+      - -s -w -X github.com/patrickjm/api-cli/internal/app.version={{.Version}}
 
 archives:
   - format: tar.gz
@@ -20,9 +20,9 @@ changelog:
 brews:
   - name: api
     description: "api is a scriptable API client"
-    homepage: "https://github.com/patrickmoriarty/api-cli"
+    homepage: "https://github.com/patrickjm/api-cli"
     repository:
-      owner: patrickmoriarty
+      owner: patrickjm
       name: homebrew-tap
       branch: main
     directory: Formula

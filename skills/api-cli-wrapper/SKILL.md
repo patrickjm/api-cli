@@ -10,7 +10,7 @@ description: Use when creating a new REST API CLI wrapper using this repo's `api
 0) Install the CLI via Homebrew:
 
 ```bash
-brew install patrickmoriarty/tap/api
+brew install patrickjm/tap/api
 ```
 
 1) Add a provider script under `providers/NAME.js`.

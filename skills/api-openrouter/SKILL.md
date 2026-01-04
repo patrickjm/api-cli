@@ -8,7 +8,7 @@ description: Use when calling OpenRouter via the `api` CLI in this repo (chat, m
 ## Quick start (Homebrew install)
 
 ```bash
-brew install patrickmoriarty/tap/api
+brew install patrickjm/tap/api
 ```
 
 ## Provider setup

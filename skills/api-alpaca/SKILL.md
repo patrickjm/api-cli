@@ -8,7 +8,7 @@ description: Use when interacting with Alpaca via the `api` CLI in this repo (ac
 ## Quick start (Homebrew install)
 
 ```bash
-brew install patrickmoriarty/tap/api
+brew install patrickjm/tap/api
 ```
 
 ## Provider setup

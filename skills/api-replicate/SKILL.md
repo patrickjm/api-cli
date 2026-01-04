@@ -8,7 +8,7 @@ description: Use when calling Replicate via the `api` CLI in this repo (models d
 ## Quick start (Homebrew install)
 
 ```bash
-brew install patrickmoriarty/tap/api
+brew install patrickjm/tap/api
 ```
 
 ## Provider setup

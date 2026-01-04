@@ -1,4 +1,4 @@
-module github.com/patrickmoriarty/api-cli
+module github.com/patrickjm/api-cli
 
 go 1.24.0
 
